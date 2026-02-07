@@ -1,0 +1,5 @@
+{
+  "name": "InternHub - AI Performance Tracker",
+  "description": "A professional platform for managing intern records, utilizing Gemini AI to summarize performance and providing interactive data visualizations for company-wide insights.",
+  "requestFramePermissions": []
+}
